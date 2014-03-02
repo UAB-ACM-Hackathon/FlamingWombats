@@ -14,4 +14,4 @@ shoot balls of fire! If they want a cig, they'll have to pry it from your cold d
 
 Install Instructions:
 	
-	In order to play S.A.A.F.T.B.E. you must be using a Mac computer. To install our game please download and double click the (insert thing here). After you have successfully installed the game all you have to do is double click the (insert thing here) to start it up. 
+	In order to play S.A.A.F.T.B.E. you must be using a Mac computer, the game is written as an application, in order to run it just click the RPG_Game.app and it should run. 
